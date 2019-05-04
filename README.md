@@ -7,7 +7,8 @@ Add a fully functional keyboard to your touch bar! No thinness lost, it's the pe
 ![Touch Bar Keyboard Open Icon](screenshot1.png)
 ![Touch Bar Keyboard Keys](screenshot2.png)
 
-A prebuilt release can be downloaded here.
+ 
+### [Download Prebuilt Release](https://github.com/RubenSandwich/TouchBarKeyboard/releases/download/v1.0/TouchBarKeyboard.app.zip)
 
 Touch Bar Keyboard lives in your menu bar if for whatever reason you don't want need it anymore. Like if you bought a MacBook Pro 2015.
 
