@@ -13,7 +13,7 @@ Add a fully functional keyboard to your touch bar!
  
 ### [Download Prebuilt Release](https://github.com/RubenSandwich/TouchBarKeyboard/releases/download/v1.0/TouchBarKeyboard.app.zip)
 
-If you want to quit Touch Bar Keyboard, life if you bought a MacBook Pro 2015, it can be quit through the menu bar.
+If you want to quit Touch Bar Keyboard, like if you bought a MacBook Pro 2015, it can be quit through the menu bar.
 
 ![Touch Bar Keyboard Menu Bar Icon](menuBar.png)
 
