@@ -1,8 +1,11 @@
 # Touch Bar Keyboard
 
-Does your new MacBook Pro Keyboard keep breaking? Are you out of warranty? Can you not only use external keyboards? 
+Does your new MacBook Pro Keyboard keep breaking?  
+Are you out of warranty?  
+Can you not only use external keyboards? 
 
-Add a fully functional keyboard to your touch bar! No thinness lost, it's the perfect solution!
+Add a fully functional keyboard to your touch bar!  
+**No thinness lost, it's the perfect solution!**
 
 ![Touch Bar Keyboard Open Icon](screenshot1.png)
 ![Touch Bar Keyboard Keys](screenshot2.png)
@@ -10,7 +13,7 @@ Add a fully functional keyboard to your touch bar! No thinness lost, it's the pe
  
 ### [Download Prebuilt Release](https://github.com/RubenSandwich/TouchBarKeyboard/releases/download/v1.0/TouchBarKeyboard.app.zip)
 
-Touch Bar Keyboard lives in your menu bar if for whatever reason you don't want need it anymore. Like if you bought a MacBook Pro 2015.
+If you want to quit Touch Bar Keyboard, life if you bought a MacBook Pro 2015, it can be quit through the menu bar.
 
 ![Touch Bar Keyboard Menu Bar Icon](menuBar.png)
 
