@@ -28,7 +28,7 @@ If you want to quit Touch Bar Keyboard, like if you bought a MacBook Pro 2015, i
 Q: How can I use this on my non-Touch Bar MacBook?  
 A: [This link should help.](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-256gb-2.3ghz-quad-core#)
 
-Q: How come the key don’t repeat when you hold them down?  
+Q: How come the keys don’t repeat when you hold them down?  
 A: How come your keys don’t work at ALL when you hold them down?
 
 Q: Why did you do this?  
