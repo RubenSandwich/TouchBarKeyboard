@@ -10,6 +10,7 @@ Add a fully functional keyboard to your touch bar! No thinness lost, it's the pe
 A prebuilt release can be downloaded here.
 
 Touch Bar Keyboard lives in your menu bar if for whatever reason you don't want need it anymore. Like if you bought a MacBook Pro 2015.
+
 ![Touch Bar Keyboard Menu Bar Icon](menuBar.png)
 
 *Note:* Touch Bar Keyboard does require accessibility features to send keys. It will ask for these permissions when launched. Below is screenshots showing how to accept these permissions.
